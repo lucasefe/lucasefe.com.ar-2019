@@ -8,3 +8,21 @@ type: "post"
 comments: false
 ---
 
+
+
+https://www.native-instruments.com/en/products/komplete/audio-interfaces/komplete-audio-6/
+
+Precio Original: USD 239.-
+
+
+## SUPPORTED DRIVERS
+
+* ASIO
+* Core Audio
+* DirectSound
+* WASAPI
+
+## SYSTEM REQUIREMENTS
+
+* macOS 10.12, 10.13 or 10.14 (latest update), Intel Core 2 Duo
+* Windows 7, Windows 8, or Windows 10 (latest Service Pack), Intel Core 2 Duo or AMD Athlon 64 X2

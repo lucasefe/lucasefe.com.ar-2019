@@ -1,5 +1,5 @@
 ---
-title: "Macbookpro 13 2017"
+title: "Macbookpro 13 2017 - Space Gray"
 date: 2019-03-04T22:46:20-03:00
 publishdate: 2018-10-07T11:17:14+02:00
 lastmod: 2018-10-08T18:55:29+02:00
@@ -8,11 +8,17 @@ type: "post"
 comments: false
 ---
 
-# Lorem ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio.
+[Technical specifications](https://support.apple.com/kb/SP754?locale=en_US)
 
-![the image](data:image/jpeg;base64,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)
+* 2.5GHz dual-core 7th-generation Intel Core i7 processor, Turbo Boost up to 4.0GHz
+* Intel Iris Plus Graphics 640
+* 16GB 2133MHz LPDDR3 memory
+* 512GB SSD storage
+* Two Thunderbolt 3 ports
+* Backlit Keyboard - US English
+* Accessory Kit
+* Force Touch trackpad
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio.
+Precio Original: USD 2199
 
-*$200*
+Importantísimo: La batería y el teclado fueron remplazados hace una semana en el apple store de San Francisco, así que la máquina está realmente como nueva. 
