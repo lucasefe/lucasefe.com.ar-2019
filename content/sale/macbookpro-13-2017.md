@@ -22,3 +22,5 @@ comments: false
 Precio Original: USD 2199
 
 Importantísimo: La batería y el teclado fueron remplazados hace una semana en el apple store de San Francisco, así que la máquina está realmente como nueva. 
+
+{{< gallery dir="/images/mbp/" />}} {{< load-photoswipe >}}

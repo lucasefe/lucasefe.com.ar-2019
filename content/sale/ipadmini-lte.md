@@ -13,3 +13,5 @@ comments: false
 Muy poco uso. 
 
 Precio Original: USD 529.-
+
+{{< gallery dir="/images/ipadmini/" />}} {{< load-photoswipe >}}

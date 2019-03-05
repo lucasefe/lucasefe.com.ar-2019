@@ -17,3 +17,5 @@ Much more than just a direct box, the SansAmp Bass Driver DI is capable of diali
 * LEVEL	regulates the XLR and effected 1/4" output levels.
 * BLEND	allows you to mix the direct bass signal with SansAmp Tube Amplifier Emulation circuitry (which is particularly useful for basses equipped with piezo pickups).
 * BASS & TREBLE	are active EQ controls, specifically tuned for bass guitar, that cut or boost +/- 12dB.
+
+{{< gallery dir="/images/sansamp/" />}} {{< load-photoswipe >}}

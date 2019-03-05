@@ -11,3 +11,5 @@ comments: false
 [Product specifications](https://www.jimdunlop.com/product/m234-7-10137-05004-4.do?sortby=ourPicks&refType=&from=fn&ecList=&ecCategory=)
 
 Precio Original: USD 100.
+
+{{< gallery dir="/images/chorus/" />}} {{< load-photoswipe >}}

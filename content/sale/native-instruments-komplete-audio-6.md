@@ -26,3 +26,5 @@ Precio Original: USD 239.-
 
 * macOS 10.12, 10.13 or 10.14 (latest update), Intel Core 2 Duo
 * Windows 7, Windows 8, or Windows 10 (latest Service Pack), Intel Core 2 Duo or AMD Athlon 64 X2
+
+{{< gallery dir="/images/ni-komplete/" />}} {{< load-photoswipe >}}

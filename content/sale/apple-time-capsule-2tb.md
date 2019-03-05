@@ -5,14 +5,12 @@ publishdate: 2018-10-07T11:17:14+02:00
 lastmod: 2018-10-08T18:55:29+02:00
 tags: ["post", "interesting"]
 type: "post"
-comments: false
+comments: "false"
 ---
 
 AirPort Time Capsule 802.11ac - Technical Specifications
 
-
-
-Precio Original: USD 299.-
+Precio Original: USD 299
 
 [Amazon](https://www.amazon.com/Apple-AirPort-Time-Capsule-Storage/dp/B00DBA1VYU)
 
@@ -20,5 +18,5 @@ Precio Original: USD 299.-
 
 
 
-
+{{< gallery dir="/images/timecapsule/" />}} {{< load-photoswipe >}}
 
