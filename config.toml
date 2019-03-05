@@ -1,26 +1,76 @@
 baseURL = "http://lucasefe.com.ar"
 languageCode = "en-us"
 title = "Lucas Efe"
-theme = "mediumish-gohugo-theme"
-summaryLength = 25
-copyright = "John Doe - All rights reserved"
-disqusShortname = "shortDisquis"
-googleAnalytics = "UA-1XXXXXXX1-X"
+baseurl = "http://www.example.com" # Hostname (and path) to the root.
+theme = "coder-portfolio"
+languagecode = "en" 
+defaultcontentlanguage = "en" 
 
+paginate = 20 # Default number of pages per page in pagination.
 
-## Main Menu
+pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
+pygmentscodefences = true # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+pygmentsUseClasses = true # new add
+
+# disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
+
+[params] # theme parameters
+    author = "Lucas Efe" # Author's name.
+    info = "Developer and musician"
+    description = "My personal website"
+    keywords = "blog,developer,personal" # Site keywords.
+    avatarurl = "images/author.jpg" # Contain the path of the optionnal avatar in the static folder.
+
+    footercontent = "Clown" # Add footer content
+    fixedbarContent = "Do you want to know me more private?→"
+    fixedbarContentAfter = "Thank You! Please share it if you like it→"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    snsShare = true # new add
+
+    thumbnail = "images/tn.png" # default sns thumbnail
+
+    # Multilanguage mode
+    langseparator = "|" # Separates menus from language selectors when site is multilingual.
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/lucasefe"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/lucasefe"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/lucasefe/"
+[[params.social]]
+    name = "Soundcloud"
+    weight = 3
+    url = "https://www.soundcloud.com/in/lucasefe/"
+
 [[menu.main]]
     name = "Blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog"
-[[menu.main]]
-    name = "About Me"
-    identifier = "about"
-    weight = 200
-    url = "/"
+    weight = 1
+    url  = "blog"
 [[menu.main]]
     name = "Sale"
-    identifier = "sale"
-    weight = 200
-    url = "/sale"
+    weight = 2
+    url = "sale"
+[[menu.main]]
+    name = "About"
+    weight = 3
+    url = "about"
