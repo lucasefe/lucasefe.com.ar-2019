@@ -1,7 +1,6 @@
-baseURL = "http://lucasefe.com.ar"
+baseURL = "https://www.lucasefe.com.ar"
 languageCode = "en-us"
 title = "Lucas Efe"
-baseurl = "http://www.example.com" # Hostname (and path) to the root.
 theme = "coder-portfolio"
 languagecode = "en" 
 defaultcontentlanguage = "en" 
