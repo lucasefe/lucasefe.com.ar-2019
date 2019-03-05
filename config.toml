@@ -1,0 +1,26 @@
+baseURL = "http://lucasefe.com.ar"
+languageCode = "en-us"
+title = "Lucas Efe"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "John Doe - All rights reserved"
+disqusShortname = "shortDisquis"
+googleAnalytics = "UA-1XXXXXXX1-X"
+
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"
+[[menu.main]]
+    name = "Sale"
+    identifier = "sale"
+    weight = 200
+    url = "/sale"
