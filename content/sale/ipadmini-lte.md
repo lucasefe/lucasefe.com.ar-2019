@@ -10,7 +10,10 @@ comments: false
 
 [Apple](https://www.apple.com/lae/ipad-mini-4/)
 
-Muy poco uso. 
+Muy poco uso. Actualizada, como de fábrica.
+
+* Wi-Fi + Cellular model
+* 128GB
 
 Precio Original: USD 529.-
 

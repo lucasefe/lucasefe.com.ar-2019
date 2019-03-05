@@ -8,7 +8,8 @@ type: "post"
 comments: false
 ---
 
-[Technical specifications](https://support.apple.com/kb/SP754?locale=en_US)
+Hasta hace un mes era mi máquina principal, pero el teclado comenzó a funcionar mal, así que la llevé a USA a que se lo cambien (es un defecto conocido de este modelo). Como para repararla necesitaban quedarse con ella unas dos semanas, tuve que comprarme otra. La máquina que vendo hoy está como nueva. Cambiaron el teclado y la batería (ver imagen en galería).
+
 
 * 2.5GHz dual-core 7th-generation Intel Core i7 processor, Turbo Boost up to 4.0GHz
 * Intel Iris Plus Graphics 640
@@ -16,11 +17,10 @@ comments: false
 * 512GB SSD storage
 * Two Thunderbolt 3 ports
 * Backlit Keyboard - US English
-* Accessory Kit
 * Force Touch trackpad
 
-Precio Original: USD 2199
+Precio Original: USD 2199.-
 
-Importantísimo: La batería y el teclado fueron remplazados hace una semana en el apple store de San Francisco, así que la máquina está realmente como nueva. 
+[Technical specifications](https://support.apple.com/kb/SP754?locale=en_US)
 
 {{< gallery dir="/images/mbp/" />}} {{< load-photoswipe >}}

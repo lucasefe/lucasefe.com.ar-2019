@@ -9,11 +9,13 @@ comments: false
 ---
 
 
+Esta interface de sonido fue usada felizmente durante muchos años. Sigue funcionando perfectamente, solo que no la uso tanto y necesito el dinero. 
 
-https://www.native-instruments.com/en/products/komplete/audio-interfaces/komplete-audio-6/
+{{< gallery dir="/images/ni-komplete/" />}} {{< load-photoswipe >}}
 
 Precio Original: USD 239.-
 
+[Más en la página del producto](https://www.native-instruments.com/en/products/komplete/audio-interfaces/komplete-audio-6/)
 
 ## SUPPORTED DRIVERS
 
@@ -27,4 +29,3 @@ Precio Original: USD 239.-
 * macOS 10.12, 10.13 or 10.14 (latest update), Intel Core 2 Duo
 * Windows 7, Windows 8, or Windows 10 (latest Service Pack), Intel Core 2 Duo or AMD Athlon 64 X2
 
-{{< gallery dir="/images/ni-komplete/" />}} {{< load-photoswipe >}}
