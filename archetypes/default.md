@@ -1,6 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+publishdate: {{ .Date }}
+lastmod: {{ .Date }}
+tags: ["post", "interesting"]
+type: "post"
+comments: false
 ---
 
