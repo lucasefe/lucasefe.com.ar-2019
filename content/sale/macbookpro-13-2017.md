@@ -8,6 +8,8 @@ type: "post"
 comments: false
 coverURL: "/images/mbp/macbookpro_open_top.jpg"
 description: "Notebook"
+precioOriginal: "2.199"
+precio: "1.700"
 ---
 
 Hasta hace un mes era mi máquina principal, pero el teclado comenzó a funcionar mal, así que la llevé a USA a que se lo cambien (es un defecto conocido de este modelo). Como para repararla necesitaban quedarse con ella unas dos semanas, tuve que comprarme otra. La máquina que vendo hoy está como nueva. Cambiaron el teclado y la batería (ver imagen en galería).
@@ -21,7 +23,6 @@ Hasta hace un mes era mi máquina principal, pero el teclado comenzó a funciona
 * Backlit Keyboard - US English
 * Force Touch trackpad
 
-Precio Original: USD 2199.-
 
 [Technical specifications](https://support.apple.com/kb/SP754?locale=en_US)
 

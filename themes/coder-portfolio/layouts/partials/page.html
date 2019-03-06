@@ -4,6 +4,13 @@
       <h1>{{ .Title }}</h1>
     </header>
 
+    <span>
+      Precio: USD {{ .Params.precio }}
+      <br/>
+      Precio Original: USD {{ .Params.precioOriginal }}
+    </span>
+    
     {{ .Content }}
+
   </article>
 </section>

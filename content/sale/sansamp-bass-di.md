@@ -8,6 +8,8 @@ type: "post"
 comments: false
 coverURL: "/images/sansamp/sansamp_top_view.jpg"
 description: "Pedal de efecto para bajo"
+precioOriginal: "230"
+precio: "150"
 ---
 
 El Sansamp es una caja directa que hace que tu bajo suene increíble. 

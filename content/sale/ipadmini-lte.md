@@ -8,6 +8,8 @@ type: "post"
 comments: false
 coverURL: "/images/ipadmini/ipad_mini_top_view.jpg"
 description: "Tablet"
+precioOriginal: "529"
+precio: "380"
 ---
 
 [Apple](https://www.apple.com/lae/ipad-mini-4/)
@@ -17,6 +19,5 @@ Muy poco uso. Actualizada, como de fábrica.
 * Wi-Fi + Cellular model
 * 128GB
 
-Precio Original: USD 529.-
 
 {{< gallery dir="/images/ipadmini/" />}} {{< load-photoswipe >}}

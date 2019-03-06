@@ -8,6 +8,8 @@ comments: "false"
 coverURL: "/images/timecapsule/apple_time_capsule_top_view_2.jpg"
 description: "Router/Access point"
 tags: ["post", "apple"]
+precioOriginal: "299"
+precio: "180"
 ---
 
 Este es mi router/access point. Se usó mucho, pero ahora cambié a una solución con más alcance, porque me estaba quedando corto. 
@@ -24,7 +26,7 @@ Más información [acá](https://support.apple.com/kb/SP679?locale=en_US).
 
 {{< gallery dir="/images/timecapsule/" />}} {{< load-photoswipe >}}
 
-Precio Original: USD 299
+
 
 
 

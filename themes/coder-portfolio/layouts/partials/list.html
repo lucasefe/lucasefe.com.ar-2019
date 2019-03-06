@@ -10,7 +10,7 @@
       <div class="right">
         <a href="{{ .URL }}">{{ .Title }}</a>
         {{ .Params.description }}
-        <span>{{ .Date.Format "January 2, 2006" }}</span>
+        <span>USD {{ .Params.precio }} (Original USD {{ .Params.precioOriginal }})</span>
       </div>
     </li>
     {{ end }}

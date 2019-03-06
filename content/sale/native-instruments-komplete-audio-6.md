@@ -8,6 +8,8 @@ type: "post"
 comments: false
 coverURL: "/images/ni-komplete/NI_Komplete_Audio_6_back_view.jpg"
 description: "Interface de audio externa"
+precioOriginal: "239"
+precio: "180"
 ---
 
 
@@ -15,7 +17,6 @@ Esta interface de sonido fue usada felizmente durante muchos años. Sigue funcio
 
 {{< gallery dir="/images/ni-komplete/" />}} {{< load-photoswipe >}}
 
-Precio Original: USD 239.-
 
 [Más en la página del producto](https://www.native-instruments.com/en/products/komplete/audio-interfaces/komplete-audio-6/)
 
