@@ -6,7 +6,7 @@ lastmod: 2018-10-08T18:55:29+02:00
 tags: ["post", "interesting"]
 type: "post"
 comments: false
-coverURL: "/images/sansamp/sansamp_top_view.jpg"
+coverURL: "/images/sansamp/cover.jpg"
 description: "Pedal de efecto para bajo"
 precioOriginal: "230"
 precio: "150"

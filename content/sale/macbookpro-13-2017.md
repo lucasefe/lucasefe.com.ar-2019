@@ -6,7 +6,7 @@ lastmod: 2018-10-08T18:55:29+02:00
 tags: ["post", "interesting"]
 type: "post"
 comments: false
-coverURL: "/images/mbp/macbookpro_open_top.jpg"
+coverURL: "/images/mbp/cover.jpg"
 description: "Notebook"
 precioOriginal: "2.199"
 precio: "1.700"

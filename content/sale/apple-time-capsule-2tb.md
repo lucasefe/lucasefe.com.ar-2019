@@ -5,7 +5,7 @@ publishdate: 2018-10-07T11:17:14+02:00
 lastmod: 2018-10-08T18:55:29+02:00
 type: "post"
 comments: "false"
-coverURL: "/images/timecapsule/apple_time_capsule_top_view_2.jpg"
+coverURL: "/images/timecapsule/cover.jpg"
 description: "Router/Access point"
 tags: ["post", "apple"]
 precioOriginal: "299"

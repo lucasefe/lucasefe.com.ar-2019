@@ -6,7 +6,7 @@ lastmod: 2018-10-08T18:55:29+02:00
 tags: ["post", "interesting"]
 type: "post"
 comments: false
-coverURL: "/images/ipadmini/ipad_mini_top_view.jpg"
+coverURL: "/images/ipadmini/cover.jpg"
 description: "Tablet"
 precioOriginal: "529"
 precio: "380"

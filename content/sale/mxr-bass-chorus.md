@@ -6,7 +6,7 @@ lastmod: 2018-10-08T18:55:29+02:00
 tags: ["post", "interesting"]
 type: "post"
 comments: false
-coverURL: "/images/chorus/chorus_06.jpg"
+coverURL: "/images/chorus/cover.jpg"
 description: "Pedal de efecto para bajo"
 precioOriginal: "100"
 precio: "80"
