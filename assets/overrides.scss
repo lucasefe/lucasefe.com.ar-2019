@@ -1,0 +1,35 @@
+.content {
+    .container.list {
+        ul {
+            li {
+                display: flex;
+                margin-top: 20px;
+                align-items: top;
+                .left {
+                    padding-right: 20px;
+                    img {
+                        border: solid 1px black;
+                        max-width: 80px;
+                    }
+                }
+                .right {
+                    width: 80%;
+                    a {
+                        display: block;
+                        text-decoration: none;
+                    }
+                    a:before, a:after {
+                        content: none;
+                    }
+                    span {
+                        margin: 0;
+                        width: 100%;
+                        text-align: left;
+                        font-size: 90%;
+                    }
+                
+                }
+            }
+        }
+    }
+}

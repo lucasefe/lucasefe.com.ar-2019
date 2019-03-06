@@ -1,9 +1,17 @@
+{{ .Content }}
 <section class="container list">
   <h1 class="title">{{ .Title }}</h1>
   <ul>
     {{ range .Paginator.Pages }}
     <li>
-      <span>{{ .Date.Format "January 2, 2006" }}</span><a href="{{ .URL }}">{{ .Title }}</a>
+      <div class="left">
+        <img src="{{ .Params.coverURL }}" />
+      </div>
+      <div class="right">
+        <a href="{{ .URL }}">{{ .Title }}</a>
+        {{ .Params.description }}
+        <span>{{ .Date.Format "January 2, 2006" }}</span>
+      </div>
     </li>
     {{ end }}
   </ul>

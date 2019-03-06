@@ -6,6 +6,8 @@ lastmod: 2018-10-08T18:55:29+02:00
 tags: ["post", "interesting"]
 type: "post"
 comments: false
+coverURL: "/images/ni-komplete/NI_Komplete_Audio_6_back_view.jpg"
+description: "Interface de audio externa"
 ---
 
 

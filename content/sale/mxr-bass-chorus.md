@@ -6,6 +6,8 @@ lastmod: 2018-10-08T18:55:29+02:00
 tags: ["post", "interesting"]
 type: "post"
 comments: false
+coverURL: "/images/chorus/chorus_06.jpg"
+description: "Pedal de efecto para bajo"
 ---
 
 [Product specifications](https://www.jimdunlop.com/product/m234-7-10137-05004-4.do?sortby=ourPicks&refType=&from=fn&ecList=&ecCategory=)
