@@ -62,14 +62,10 @@ pygmentsUseClasses = true # new add
     url = "https://www.soundcloud.com/in/lucasefe/"
 
 [[menu.main]]
-    name = "Blog"
+    name = "About"
     weight = 1
-    url  = "blog"
+    url = "about"
 [[menu.main]]
     name = "Sale"
     weight = 2
     url = "sale"
-[[menu.main]]
-    name = "About"
-    weight = 3
-    url = "about"
