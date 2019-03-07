@@ -18,7 +18,7 @@ pygmentsUseClasses = true # new add
 [params] # theme parameters
     author = "Lucas Efe" # Author's name.
     info = "Developer and musician"
-    description = "My personal website"
+    description = "Un conjunto de cosas que no entran en ningún otro lugar"
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "images/author.jpg" # Contain the path of the optionnal avatar in the static folder.
 
