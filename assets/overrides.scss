@@ -60,17 +60,17 @@ p a{
         span {
             font-size: 12px;
             
-            padding: 3px 8px;
+            padding: 3px 5px;
             border-radius: 5px;
 
             &.aca {
-                background-color: rgb(24, 224, 34);
+                background-color: rgba(24, 224, 34, 0.8);
             }
             &.usa{
-                background-color: rgb(189, 198, 223);
+                background-color: rgba(189, 198, 223, 0.2);
             }
             &.meli{
-                background-color: rgb(255, 251, 0);
+                background-color: rgba(255, 251, 0, 0.2);
             }
         }
     }
