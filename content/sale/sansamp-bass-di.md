@@ -8,8 +8,10 @@ type: "post"
 comments: false
 coverURL: "/images/sansamp/cover.jpg"
 description: "Pedal de efecto para bajo"
-precioOriginal: "230"
-precio: "150"
+precioUSA: "230"
+precioMELI: "330"
+precio: "200"
+linkMELI: "https://articulo.mercadolibre.com.ar/MLA-770034097-pedal-sansamp-bass-driver-di-tech21-nyc-_JM"
 ---
 
 El Sansamp es una caja directa que hace que tu bajo suene increíble. 

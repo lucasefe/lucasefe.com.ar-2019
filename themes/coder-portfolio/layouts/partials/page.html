@@ -4,11 +4,13 @@
       <h1>{{ .Title }}</h1>
     </header>
 
-    <span>
-      Precio: USD {{ .Params.precio }}
-      <br/>
-      Precio Original: USD {{ .Params.precioOriginal }}
-    </span>
+    {{ if eq .Section "sale" }}
+      <div class="precios">
+        <span class="usa">USA: USD {{ .Params.precioUSA }}</span>
+        <span class="meli">Mercado Libre: USD {{ .Params.precioMELI }}</span>
+        <span class="aca">Acá: USD {{ .Params.precio }}</span>
+      </div>
+    {{ end }}
     
     {{ .Content }}
 

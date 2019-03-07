@@ -8,8 +8,10 @@ comments: "false"
 coverURL: "/images/timecapsule/cover.jpg"
 description: "Router/Access point"
 tags: ["post", "apple"]
-precioOriginal: "299"
-precio: "180"
+precioUSA: "299"
+precio: "150"
+precioMELI: "225"
+linkMELI: "https://articulo.mercadolibre.com.ar/MLA-759940017-apple-airport-time-capsule-2-tb-router-y-backup-para-tu-mac-_JM"
 ---
 
 Este es mi router/access point. Se usó mucho, pero ahora cambié a una solución con más alcance, porque me estaba quedando corto. 
@@ -22,7 +24,7 @@ Es perfecto para compartir internet y además hacer backup de archivos important
 * Three Gigabit Ethernet LAN ports for connecting a computer, Ethernet hub, or networked printer
 * Gigabit Ethernet WAN port for connecting a DSL modem, cable modem, or Ethernet network
 
-Más información [acá](https://support.apple.com/kb/SP679?locale=en_US).
+Más información sobre el producto [acá](https://support.apple.com/kb/SP679?locale=en_US).
 
 {{< gallery dir="/images/timecapsule/" />}} {{< load-photoswipe >}}
 

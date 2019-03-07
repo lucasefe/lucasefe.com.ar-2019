@@ -8,8 +8,10 @@ type: "post"
 comments: false
 coverURL: "/images/ni-komplete/cover.jpg"
 description: "Interface de audio externa"
-precioOriginal: "239"
+precioUSA: "239"
 precio: "180"
+precioMELI: "250"
+linkMELI: "https://articulo.mercadolibre.com.ar/MLA-769678263-placa-de-sonido-native-instruments-komplete-audio-6-_JM"
 ---
 
 

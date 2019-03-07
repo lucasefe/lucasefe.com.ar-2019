@@ -1,3 +1,15 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+a:before, a:after {
+    content: none;
+}
+
+p a{
+    text-decoration: none;
+    color: black;
+}
 .content {
     .container.list {
         ul {
@@ -18,9 +30,7 @@
                         display: block;
                         text-decoration: none;
                     }
-                    a:before, a:after {
-                        content: none;
-                    }
+
                     span {
                         margin: 0;
                         width: 100%;
@@ -28,8 +38,39 @@
                         font-size: 80%;
                         font-weight: bold;
                     }
+                    .precios {
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: flex-start;
+                        span {
+                            flex-shrink: 1;
+                            text-align: center;
+                            padding: 0px 10px;
+                            width: auto;
+                            margin-right: 10px;
+                        } 
+                    }
                 
                 }
+            }
+        }
+    }
+
+    .precios {
+        span {
+            font-size: 12px;
+            
+            padding: 3px 8px;
+            border-radius: 5px;
+
+            &.aca {
+                background-color: rgb(24, 224, 34);
+            }
+            &.usa{
+                background-color: rgb(189, 198, 223);
+            }
+            &.meli{
+                background-color: rgb(255, 251, 0);
             }
         }
     }

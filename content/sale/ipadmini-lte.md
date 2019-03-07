@@ -8,8 +8,11 @@ type: "post"
 comments: false
 coverURL: "/images/ipadmini/cover.jpg"
 description: "Tablet"
-precioOriginal: "529"
-precio: "380"
+precioUSA: "529"
+precio: "350"
+precioMELI: "412"
+linkMELI: "https://articulo.mercadolibre.com.ar/MLA-770699232-ipad-air-2-wi-fi-celllar-64gb-gold-modelo-a1567-_JM?quantity=1&variation=32958371675"
+
 ---
 
 [Apple](https://www.apple.com/lae/ipad-mini-4/)
