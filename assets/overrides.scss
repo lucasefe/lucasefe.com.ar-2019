@@ -1,7 +1,7 @@
 body {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
+
 a:before, a:after {
     content: none;
 }
@@ -10,6 +10,7 @@ p a{
     text-decoration: none;
     color: black;
 }
+
 .content {
     .container.list {
         ul {
