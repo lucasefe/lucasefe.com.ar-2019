@@ -10,9 +10,16 @@
       <div class="right">
         <a href="{{ .URL }}">{{ .Title }}</a>
         {{ .Params.description }}
-        <div class="precios">
-          <span class="aca">USD {{ .Params.precio }}.00</span>
-        </div>
+
+        {{ if (eq .Section "sale")  }}
+          <div class="precios">
+          {{ if eq .Params.status "sold" }}
+            <span class="usa">Vendido</span>
+          {{ else }}
+            <span class="aca">USD {{ .Params.precio }}.00</span>
+          {{ end }}
+          </div>
+        {{ end }}
       </div>
     </li>
     {{ end }}

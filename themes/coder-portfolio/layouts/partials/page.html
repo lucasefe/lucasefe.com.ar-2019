@@ -4,12 +4,16 @@
       <h1>{{ .Title }}</h1>
     </header>
 
-    {{ if eq .Section "sale" }}
+    {{ if (eq .Section "sale")  }}
       <div class="precios">
+      {{ if eq .Params.status "sold" }}
+        <span class="usa">Vendido</span>
+      {{ else }}
         <span class="usa">USA: USD {{ .Params.precioUSA }}.00</span>
         <span class="meli">Mercado Libre: USD {{ .Params.precioMELI }}.00</span>
         <span class="aca">USD {{ .Params.precio }}.00</span>
-      </div>
+      {{ end }}
+      </div> 
     {{ end }}
     
     {{ .Content }}

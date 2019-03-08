@@ -12,6 +12,8 @@ precioUSA: "2.199"
 precio: "1.900"
 precioMELI: "2.500"
 linkMELI: "https://articulo.mercadolibre.com.ar/MLA-749258940-macbook-pro-13-512-ssd-16-gb-touch-bar-2017-_JM"
+
+status: "sold"
 ---
 
 Hasta hace un mes era mi máquina principal, pero el teclado comenzó a funcionar mal, así que la llevé a USA a que se lo cambien (es un defecto conocido de este modelo). Como para repararla necesitaban quedarse con ella unas dos semanas, tuve que comprarme otra. La máquina que vendo hoy está como nueva. Cambiaron el teclado y la batería (ver imagen en galería).
